@@ -15,5 +15,6 @@ style="width:100%;max-width:960px"></div>
 <p>A new line added from hello world image branch!</p>
 <p>A new line has been added in remote branch</p>
 <p> Yet another line added in index file to test the pull</p>
+<P>This line is here to show how remote push works</p>
 </body>
 </html> 
