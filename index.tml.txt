@@ -16,5 +16,6 @@ style="width:100%;max-width:960px"></div>
 <p>A new line has been added in remote branch</p>
 <p> Yet another line added in index file to test the pull</p>
 <P>This line is here to show how remote push works</p>
+<P>this line is here to show how to work on second remote branch </p>
 </body>
 </html> 
