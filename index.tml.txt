@@ -14,5 +14,6 @@ style="width:100%;max-width:960px"></div>
 <p>just added this line as part of master branch!</p>
 <p>A new line added from hello world image branch!</p>
 <p>A new line has been added in remote branch</p>
+<p> Yet another line added in index file to test the pull</p>
 </body>
 </html> 
